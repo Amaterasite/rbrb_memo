@@ -17,27 +17,27 @@
 
 - 初手は `601` 固定。
 
-<img src="Noah2/601.png" alt="601" style="zoom:50%;" />
+<img src="Noah2/601.png" alt="601" width="320" height="180" />
 
 - 攻撃採用の優先度は最低だが、常に裏でカウンタが回り続けている。
 
 | カウンタ % 15 |    ATKID    | 画像                                                         |
 | :-----------: | :---------: | ------------------------------------------------------------ |
-|       1       | `604, 605`  | <img src="Noah2/604.png" alt="604" style="zoom:30%;" /><img src="Noah2/605.png" alt="605" style="zoom:30%;" /> |
-|       2       | `606, 607`  | <img src="Noah2/606.png" alt="606" style="zoom:30%;" /><img src="Noah2/607.png" alt="607" style="zoom:30%;" /> |
-|       3       |    `601`    | <img src="Noah2/601.png" alt="601" style="zoom:30%;" />      |
-|       4       | `603, 604`  | <img src="Noah2/603.png" alt="603" style="zoom:30%;" /><img src="Noah2/604.png" alt="604" style="zoom:30%;" /> |
-|       5       |    `605`    | <img src="Noah2/605.png" alt="605" style="zoom:30%;" />      |
-|       6       | `606, 607`  | <img src="Noah2/606.png" alt="606" style="zoom:30%;" /><img src="Noah2/607.png" alt="607" style="zoom:30%;" /> |
-|       7       |    `606`    | <img src="Noah2/606.png" alt="606" style="zoom:30%;" />      |
-|       8       | `601, 602`  | <img src="Noah2/601.png" alt="601" style="zoom:30%;" /><img src="Noah2/602.png" alt="602" style="zoom:30%;" /> |
-|       9       |    `603`    | <img src="Noah2/603.png" alt="603" style="zoom:30%;" />      |
-|      10       | `604, 605`  | <img src="Noah2/604.png" alt="604" style="zoom:30%;" /><img src="Noah2/605.png" alt="605" style="zoom:30%;" /> |
-|      11       |    `602`    | <img src="Noah2/602.png" alt="602" style="zoom:30%;" />      |
-|      12       | `604, 605`  | <img src="Noah2/604.png" alt="604" style="zoom:30%;" /><img src="Noah2/605.png" alt="605" style="zoom:30%;" /> |
-|      13       |    `607`    | <img src="Noah2/607.png" alt="607" style="zoom:30%;" />      |
-|      14       |    `601`    | <img src="Noah2/601.png" alt="601" style="zoom:30%;" />      |
-|       0       | `601 - 607` | <img src="Noah2/601.png" alt="601" style="zoom:30%;" /><img src="Noah2/602.png" alt="602" style="zoom:30%;" /><img src="Noah2/603.png" alt="603" style="zoom:30%;" /><img src="Noah2/604.png" alt="604" style="zoom:30%;" /><img src="Noah2/605.png" alt="605" style="zoom:30%;" /><img src="Noah2/606.png" alt="606" style="zoom:30%;" /><img src="Noah2/607.png" alt="607" style="zoom:30%;" /> |
+|       1       | `604, 605`  | <img src="Noah2/604.png" alt="604" width="192" height="108" /><img src="Noah2/605.png" alt="605" width="192" height="108" /> |
+|       2       | `606, 607`  | <img src="Noah2/606.png" alt="606" width="192" height="108" /><img src="Noah2/607.png" alt="607" width="192" height="108" /> |
+|       3       |    `601`    | <img src="Noah2/601.png" alt="601" width="192" height="108" />      |
+|       4       | `603, 604`  | <img src="Noah2/603.png" alt="603" width="192" height="108" /><img src="Noah2/604.png" alt="604" width="192" height="108" /> |
+|       5       |    `605`    | <img src="Noah2/605.png" alt="605" width="192" height="108" />      |
+|       6       | `606, 607`  | <img src="Noah2/606.png" alt="606" width="192" height="108" /><img src="Noah2/607.png" alt="607" width="192" height="108" /> |
+|       7       |    `606`    | <img src="Noah2/606.png" alt="606" width="192" height="108" />      |
+|       8       | `601, 602`  | <img src="Noah2/601.png" alt="601" width="192" height="108" /><img src="Noah2/602.png" alt="602" width="192" height="108" /> |
+|       9       |    `603`    | <img src="Noah2/603.png" alt="603" width="192" height="108" />      |
+|      10       | `604, 605`  | <img src="Noah2/604.png" alt="604" width="192" height="108" /><img src="Noah2/605.png" alt="605" width="192" height="108" /> |
+|      11       |    `602`    | <img src="Noah2/602.png" alt="602" width="192" height="108" />      |
+|      12       | `604, 605`  | <img src="Noah2/604.png" alt="604" width="192" height="108" /><img src="Noah2/605.png" alt="605" width="192" height="108" /> |
+|      13       |    `607`    | <img src="Noah2/607.png" alt="607" width="192" height="108" />      |
+|      14       |    `601`    | <img src="Noah2/601.png" alt="601" width="192" height="108" />      |
+|       0       | `601 - 607` | <img src="Noah2/601.png" alt="601" width="192" height="108" /><img src="Noah2/602.png" alt="602" width="192" height="108" /><img src="Noah2/603.png" alt="603" width="192" height="108" /><img src="Noah2/604.png" alt="604" width="192" height="108" /><img src="Noah2/605.png" alt="605" width="192" height="108" /><img src="Noah2/606.png" alt="606" width="192" height="108" /><img src="Noah2/607.png" alt="607" width="192" height="108" /> |
 
 <br>
 
@@ -47,10 +47,10 @@
 
 | カウンタ % 12 | ATKID | 画像                                                    |
 | :-----------: | :---: | ------------------------------------------------------- |
-|       1       | `614` | <img src="Noah2/614.png" alt="614" style="zoom:30%;" /> |
-|       3       | `610` | <img src="Noah2/610.png" alt="610" style="zoom:30%;" /> |
-|       4       | `615` | <img src="Noah2/615.png" alt="615" style="zoom:30%;" /> |
-|       9       | `616` | <img src="Noah2/616.png" alt="616" style="zoom:30%;" /> |
+|       1       | `614` | <img src="Noah2/614.png" alt="614" width="192" height="108" /> |
+|       3       | `610` | <img src="Noah2/610.png" alt="610" width="192" height="108" /> |
+|       4       | `615` | <img src="Noah2/615.png" alt="615" width="192" height="108" /> |
+|       9       | `616` | <img src="Noah2/616.png" alt="616" width="192" height="108" /> |
 
 <br>
 
@@ -61,9 +61,9 @@
 
 | カウンタ % 13 | ATKID | 画像                                                    |
 | :-----------: | :---: | ------------------------------------------------------- |
-|       1       | `611` | <img src="Noah2/611.png" alt="611" style="zoom:30%;" /> |
-|       5       | `612` | <img src="Noah2/612.png" alt="612" style="zoom:30%;" /> |
-|     `10`      | `613` | <img src="Noah2/613.png" alt="613" style="zoom:30%;" /> |
+|       1       | `611` | <img src="Noah2/611.png" alt="611" width="192" height="108" /> |
+|       5       | `612` | <img src="Noah2/612.png" alt="612" width="192" height="108" /> |
+|     `10`      | `613` | <img src="Noah2/613.png" alt="613" width="192" height="108" /> |
 
 <br>
 
@@ -74,9 +74,9 @@
 
 | カウンタ % 14 | ATKID | 画像                                                    |
 | :-----------: | :---: | ------------------------------------------------------- |
-|       1       | `608` | <img src="Noah2/608.png" alt="608" style="zoom:30%;" /> |
-|       6       | `609` | <img src="Noah2/609.png" alt="609" style="zoom:30%;" /> |
-|     `11`      | `610` | <img src="Noah2/610.png" alt="610" style="zoom:30%;" /> |
+|       1       | `608` | <img src="Noah2/608.png" alt="608" width="192" height="108" /> |
+|       6       | `609` | <img src="Noah2/609.png" alt="609" width="192" height="108" /> |
+|     `11`      | `610` | <img src="Noah2/610.png" alt="610" width="192" height="108" /> |
 
 <br>
 
@@ -138,27 +138,27 @@
 - 表示されている hitbox はドット単位で正確である事を保証できない。
 
 ### 602
-![602c](Noah2\602c.png)
+![602c](Noah2/602c.png)
 
 ### 608
-![608c](Noah2\608c.png)
+![608c](Noah2/608c.png)
 
 ### 609
-![609c](Noah2\609c.png)
+![609c](Noah2/609c.png)
 
 ### 610
 
-![610c](Noah2\610c.png)
+![610c](Noah2/610c.png)
 
 ### 611
 
-![611c](Noah2\611c.png)
+![611c](Noah2/611c.png)
 
 ### 612
-![612c](Noah2\612c.png)
+![612c](Noah2/612c.png)
 
 ### 615
-![615c](Noah2\615c.png)
+![615c](Noah2/615c.png)
 
 <br>
 
@@ -168,6 +168,7 @@
 ### メモリマップ
 - Noah 2 は `EntityID = 8` 固定。
 - データ型はすべて `float` 型。
+
 | Address         | メモリ内容               | 値の範囲        |
 | --------------- | ------------------------ | --------------- |
 | `Entity[0x57C]` | 攻撃カウンタ `HP < 100%` | `10000 - 10014` |
