@@ -117,11 +117,11 @@ AFD モードを真っ向からプレイしたい方はこの時点で以下の�
 
 #### Pandora
 - Pyramid の入口が封鎖されていて正規の方法では侵入できない。
-- Speedrun で用いられる 4-Tile Zip によるボス部屋直行ルートが想定解だと思われる。 
+- Speedrun で用いられる 4-Tile Zip によるボス部屋直行ルートが想定解だと思われる。 <br>
  <img src="/afd/Pandora1.png" alt="Pandora1" width="320" height="180" /> <img src="/afd/Pandora2.png" alt="Pandora2" width="320" height="180" />
-  - Ashuri から Shrink バフを購入し、Temp Save イベントを回避しつつ徒歩で進み、<br>サーチアイ攻撃時にボス状態になる性質を利用して Erina の判定サイズを小さくしてブロックの隙間に入り込むという手段もあるが、<br>あまりに特殊かつボス前までに回収可能なアイテム数が多くなるため想定解ではないと思われる。
+  - Ashuri から Shrink バフを購入し、Temp Save イベントを回避しつつ徒歩で進み、<br>サーチアイ攻撃時にボス状態になる性質を利用して Erina の判定サイズを小さくしてブロックの隙間に入り込むという手段もあるが、<br>あまりに特殊かつボス前までに回収可能なアイテム数が多くなるため想定解ではないと思われる。<br>
   <img src="/afd/Pyramid.png" alt="Pyramid" width="320" height="180" />
-- なぜかワープストーンが封鎖されていて使用することができないため、帰りは Slide Jump を使う必要がある。
+- なぜかワープストーンが封鎖されていて使用することができないため、帰りは Slide Jump を使う必要がある。<br>
  <img src="/afd/Pyramid_Warp.png" alt="Pyramid_Warp" width="320" height="180" /> <img src="/afd/Pyramid_SlideJump.png" alt="Pyramid_SlideJump" width="320" height="180" />
 
 #### Kotri 2 / Lilith
