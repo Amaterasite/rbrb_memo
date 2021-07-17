@@ -43,7 +43,7 @@ AFD モードは 2018 / 04 / 01 で追加された April Fools モードの一�
 | 9 | Health Absorb |  |
 | 10 | Null Melee | Post Game 以降ではこのあたりのバフが付与されたら 99 Reflect を警戒すべき。 |
 | 11 | Defense Up | 99 Reflect のカウンター発生範囲がズレる事があるので注意。 |
-| 12 | 99 Reflect | **最も危険なバフ。**一瞬で HP が溶ける。 |
+| 12 | 99 Reflect | **最も危険なバフ。** 一瞬で HP が溶ける。 |
 | 13 | HP Recover | ~~Irisu 戦で BGM のピッチが勝手に戻る原因。~~ |
 | 14 | Quad Damage |  |
 | 15 | 300 Revenge |  |
